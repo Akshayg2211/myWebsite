@@ -1,6 +1,6 @@
 function hamburg(){
     const navbar = document.querySelector(".dropdown")
-    navbar.style.transform = "translateY(1px)"
+    navbar.style.transform = "translateY(0px)"
 }
 
 function cancel(){
@@ -13,8 +13,7 @@ function cancel(){
 const texts = [
     "DEVELOPER",
     "DESIGNER",
-    "WEB DESIGNER",
-    "WEB DEVELOPER"
+    "YOUTUBER"
 ]
 
 let speed  =100;
