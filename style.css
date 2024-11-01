@@ -227,7 +227,7 @@ section{
     box-shadow: 0 0 40px #077b32;
 }
 
-@media (max-width:984px) {
+@media (max-width:884px) {
     nav .logo{
         position: absolute;
         top: 16px;
