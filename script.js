@@ -11,8 +11,8 @@ function cancel(){
 // Typewriter Effect
 
 const texts = [
-    "DEVELOPER",
-    "DESIGNER",
+    "AMV editor(passion)",
+    "Developer",
     "YOUTUBER"
 ]
 
