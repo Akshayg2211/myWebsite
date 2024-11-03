@@ -1,2 +1,2 @@
-redirect_from: '/index.html'
-to: '/Home'
+redirect_from: '/home'
+to: 'https://spikxel.in/index.html'
