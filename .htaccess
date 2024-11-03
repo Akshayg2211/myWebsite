@@ -1,10 +1,10 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /home
+RewriteBase /%Home%
 RewriteRule ^index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /home[L]
+RewriteRule . /%Home%[L]
 </IfModule>
 # END WordPress
