@@ -13,7 +13,7 @@ function cancel(){
 const texts = [
     "AMV editor(passion)",
     "Developer",
-    "YOUTUBER"
+    "YOUTUBER",
 ]
 
 let speed  =100;
